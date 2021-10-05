@@ -1,3 +1,14 @@
+/*
+ * OOP 3200 - ICE3
+ *
+ * File Name: GameObject.h
+ *
+ * Student Name: Nicholas Shortt
+ * Student ID: 100630003
+ *
+ * Date: Oct 5, 2021
+ *
+ */
 #pragma once
 #ifndef __GAME_OBJECT__
 #define __GAME_OBJECT__

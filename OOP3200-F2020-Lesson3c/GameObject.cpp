@@ -1,3 +1,14 @@
+/*
+ * OOP 3200 - ICE3
+ *
+ * File Name: GameObject.cpp
+ *
+ * Student Name: Nicholas Shortt
+ * Student ID: 100630003
+ *
+ * Date: Oct 5, 2021
+ *
+ */
 #include "GameObject.h"
 
 GameObject::GameObject(): m_id(0), m_position(Vector2D())
